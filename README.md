@@ -1,4 +1,6 @@
-Guides
+![Glacier Info Group](https://www.google.com/a/glacierinfogroup.com/images/logo.gif)
+
+Glacier Info Group - Developer Guides
 ======
 
 Guides for getting things done, programming well, and programming in style.
@@ -6,7 +8,6 @@ Guides for getting things done, programming well, and programming in style.
 * [Protocol](/protocol)
   * [Git](/protocol/git)
   * [Rails](/protocol/rails)
-  * [iOS](/protocol/ios)
   * [Open Source](/protocol/open-source)
 * [Code Review](/code-review)
 * [Best Practices](/best-practices)
@@ -40,10 +41,7 @@ Credits
 -------
 
 Thank you, [contributors](https://github.com/thoughtbot/guides/graphs/contributors)!
-
-![thoughtbot](http://thoughtbot.com/images/tm/logo.png)
-
-Guides is maintained by [thoughtbot, inc](http://thoughtbot.com/community).
+Original Guides repo is maintained by [thoughtbot, inc](http://thoughtbot.com/community).
 
 License
 -------
@@ -51,4 +49,3 @@ License
 Guides is © 2014 thoughtbot, inc. It is distributed under the [Creative Commons
 Attribution License](http://creativecommons.org/licenses/by/3.0/).
 
-The names and logos for thoughtbot are trademarks of thoughtbot, inc.
